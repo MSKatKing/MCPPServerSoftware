@@ -1,0 +1,3 @@
+D:/C++ Development/MCPPServerSoftware/build/CMakeFiles/MCPPServerSoftware.dir
+D:/C++ Development/MCPPServerSoftware/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ Development/MCPPServerSoftware/build/CMakeFiles/ZERO_CHECK.dir
