@@ -9,3 +9,4 @@ MCPPServerSoftware
 dockerfile
 cmake_install.cmake
 server-config.cfg
+Makefile
