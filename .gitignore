@@ -1,0 +1,11 @@
+# Ignore directories
+.idea/
+build/
+cmake-build-debug/
+CMakeFiles/
+
+# Ignore specific files
+MCPPServerSoftware
+dockerfile
+cmake_install.cmake
+server-config.cfg
