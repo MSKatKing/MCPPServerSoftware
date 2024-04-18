@@ -1,3 +1,0 @@
-/mnt/d/C++ Development/MCPPServerSoftware/CMakeFiles/MCPPServerSoftware.dir
-/mnt/d/C++ Development/MCPPServerSoftware/CMakeFiles/edit_cache.dir
-/mnt/d/C++ Development/MCPPServerSoftware/CMakeFiles/rebuild_cache.dir
