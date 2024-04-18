@@ -1,4 +1,0 @@
-Cannot generate into D:\C++ Development\MCPPServerSoftware
-It is already used for project \mnt\d\C++ Development\MCPPServerSoftware
-
-Please either delete it manually or select another generation directory
